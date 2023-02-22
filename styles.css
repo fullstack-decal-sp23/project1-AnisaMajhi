@@ -1,0 +1,17 @@
+#intro {
+    color: rgb(61, 85, 61);
+    text-align: center;
+    font-weight: 500;
+    margin: 50px;
+  }
+
+.image {
+  align-items: center;
+  align-self: center;
+  justify-content: center;
+}
+
+.flexy {
+    display: flex;
+    flex-wrap: wrap;
+}
